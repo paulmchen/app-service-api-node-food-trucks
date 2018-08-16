@@ -26,7 +26,7 @@ npm install
 npm start
 ```
 
-4. Open the browser to http://localhost:1337
+4. Open the browser to http://localhost:3000
 
 ## Deploy to Azure
 Follow the steps at this tutorial [Build and deploy a Node.js API app in Azure App Service](http://azure.microsoft.com/en-us/documentation/articles/app-service-api-nodejs-api-app/) to deploy it to Azure.
