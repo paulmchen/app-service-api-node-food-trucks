@@ -1,5 +1,5 @@
 
-var port = process.env.PORT || 1337;
+var port = process.env.PORT || 3000;
 var baseHost = process.env.WEBSITE_HOSTNAME || 'localhost';
 
 var http = require('http');
